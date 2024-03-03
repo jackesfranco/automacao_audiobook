@@ -3,9 +3,11 @@ Neste projeto eu utilizo NLP (Natural Linguage Processing) para ler um livro inf
 
 <br/>
 
-## Tecnologias e Recursos
-<ul>
-<li>Python</li>
-<li>Bibliotecas: pdfplumber, pyttsx3</li>
+## ✔️ Tecnologias utilizadas
 
-<pdf src"https://github.dev/jackesfranco/automacao_audiobook/blob/main/O%20elefante%20em%20apuros.pdf"/>
+- ``Python``
+- ``Bibliotecas: pdfplumber, pyttsx3``
+
+<br/>
+
+Acessando o livro "https://github.com/jackesfranco/automacao_audiobook/blob/main/O%20elefante%20em%20apuros.pdf"/>
